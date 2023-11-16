@@ -1,0 +1,16 @@
+﻿  Final.cpp
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\Final.cpp(340,19): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\Final.cpp(1054,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\Final.cpp(1055,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\Final.cpp(1059,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\Final.cpp(1060,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\Final.cpp(1062,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\Final.cpp(1063,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\ProyectoCompuGraf\Final.cpp(1071,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(input.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(monitor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  ProyectoCompuGraf.vcxproj -> C:\Users\sodai\OneDrive\Documentos\Escuela\CG\Proyecto\Proy\ProyectoCompuGraf\Debug\ProyectoCompuGraf.exe
