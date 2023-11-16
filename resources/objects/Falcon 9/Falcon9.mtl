@@ -1,0 +1,86 @@
+# Blender 3.6.2 MTL File: 'None'
+# www.blender.org
+
+newmtl body
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd falcon_body_BaseColor.png
+map_Ns falcon_body_Roughness.png
+map_refl falcon_body_Metallic.png
+map_Bump -bm 1.000000 falcon_body_Normal.png
+
+newmtl body_black
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd falcon_body_black_BaseColor.png
+map_Ns falcon_body_black_Roughness.png
+map_refl falcon_body_black_Metallic.png
+map_Bump -bm 1.000000 falcon_body_black_Normal.png
+
+newmtl details
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd falcon_details_BaseColor.png
+map_refl falcon_details_Metallic.png
+map_Bump -bm 1.000000 falcon_details_Normal.png
+
+newmtl engine
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd falcon_engine_BaseColor.png
+map_Ns falcon_engine_Roughness.png
+map_refl falcon_engine_Metallic.png
+map_Bump -bm 1.000000 falcon_engine_Normal.png
+
+newmtl fairing
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd falcon_fairing_BaseColor.png
+map_Ns falcon_fairing_Roughness.png
+map_refl falcon_fairing_Metallic.png
+map_Bump -bm 1.000000 falcon_fairing_Normal.png
+
+newmtl fins
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd falcon_fins_BaseColor.png
+map_Ns falcon_fins_Roughness.png
+map_refl falcon_fins_Metallic.png
+map_Bump -bm 1.000000 falcon_fins_Normal.png
+
+newmtl legs
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd falcon_legs_BaseColor.png
+map_Ns falcon_legs_Roughness.png
+map_refl falcon_legs_Metallic.png
+map_Bump -bm 1.000000 falcon_legs_Normal.png
