@@ -1,0 +1,277 @@
+# Blender 3.6.2 MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl Base
+Ns 360.000000
+Ka 0.027273 0.027273 0.027273
+Ks 0.195455 0.195455 0.195455
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Bote de basura_Base_BaseColor.png
+map_Bump -bm 1.000000 C:/Bote de basura_Base_Normal.png
+
+newmtl Cusion
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Leather027_1K-JPG_Color.jpg
+map_Ns Leather027_1K-JPG_Roughness.jpg
+map_Bump Leather027_1K-JPG_NormalGL.jpg
+
+newmtl Emmision
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Gelas
+Ka 1.000000 1.000000 1.000000
+Kd 0.042259 0.050007 0.040479
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns Marble09_2K_Roughness.png
+
+newmtl Llantas
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Bote de basura_Llantas_BaseColor.png
+map_Bump -bm 1.000000 C:/Bote de basura_Llantas_Normal.png
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Concrete030_2K-JPG_Color.jpg
+map_Bump -bm 1.000000 Concrete030_2K-JPG_NormalGL.jpg
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Metal046B_1K-JPG_Color.jpg
+map_Ns Metal046B_1K-JPG_Roughness.jpg
+map_refl Metal046B_1K-JPG_Metalness.jpg
+map_Bump -bm 1.000000 Metal046B_1K-JPG_NormalGL.jpg
+
+newmtl Material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Marble016_1K-JPG_Color.jpg
+map_Ns Marble016_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Marble016_1K-JPG_NormalGL.jpg
+
+newmtl Saturn_Rocket
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Saturn Rocket_Color.jpeg
+map_Ks Saturn_Rocket_Specular_Color.png
+map_Bump -bm 1.000000 Saturn_Rocket_Bump.png
+
+newmtl Sofa
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Leather027_1K-JPG_Color.jpg
+map_Ns Leather027_1K-JPG_Roughness.jpg
+map_Bump Leather027_1K-JPG_NormalGL.jpg
+
+newmtl Starship
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Starship_Base_Color.png
+map_Ns Starship_Roughness.png
+map_refl Starship_Metallic.png
+map_Bump -bm 1.000000 Starship_Normal_DirectX.png
+
+newmtl Tapa
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Bote de basura_Base_BaseColor.png
+map_Bump -bm 1.000000 Bote de basura_Tapa_Normal.png
+
+newmtl Tree
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.360835 0.219302
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 Maple_Bark_2_NRM.png
+
+newmtl Tree_Branch
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.012824 0.800000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_d Tree Branch.png
+
+newmtl fachada
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Concrete030_2K-JPG_Color.jpg
+map_Ns Concrete030_2K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Concrete030_2K-JPG_NormalGL.jpg
+
+newmtl fachada3:Baseboard_material.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl fachada3:Floor_material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd WoodFloor048_2K-JPG_Color.jpg
+map_Ns WoodFloor048_2K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 WoodFloor048_2K-JPG_NormalGL.jpg
+
+newmtl fachada3:Stairs_material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd WoodFloor048_2K-JPG_Color.jpg
+map_Ns WoodFloor048_2K-JPG_Roughness.jpg
+
+newmtl initialShadingGroup.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TCom_Scifi_Panel_1K_albedo.tif
+map_Ns TCom_Scifi_Panel_1K_height.tif
+map_Bump -bm 1.000000 TCom_Scifi_Panel_1K_normal.tif
+
+newmtl inside
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd inside_BaseColor.jpeg
+map_Ns inside_Roughness.jpeg
+map_refl inside_Metallic.jpeg
+map_Bump -bm 1.000000 inside_Normal.jpeg
+
+newmtl outside_A
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd outside_A_BaseColor.jpeg
+map_Ns outside_A_Roughness.jpeg
+map_refl outside_A_Metallic.jpeg
+map_Bump -bm 1.000000 outside_A_Normal.jpeg
+
+newmtl outside_B
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd outside_B_BaseColor.jpeg
+map_Ns outside_B_Roughness.jpeg
+map_refl outside_B_Metallic.jpeg
+map_Bump -bm 1.000000 outside_B_Normal.jpeg
+
+newmtl rocket
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd spacecraft_rocket_BaseColor.png
+map_Ns spacecraft_rocket_Roughness.png
+map_refl spacecraft_rocket_Metallic.png
+map_Bump spacecraft_rocket_Normal.png
+
+newmtl standardSurface2SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd multpaleta.png
+
+newmtl thruster
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd spacecraft_thruster_BaseColor.png
+map_Ns spacecraft_thruster_Roughness.png
+map_refl spacecraft_thruster_Metallic.png
